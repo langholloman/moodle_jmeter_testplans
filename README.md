@@ -1,2 +1,2 @@
-# moodle_jmeter_testplans
-This respo is for Moodle JMeter Test Plans for load testing Moodle environments.
+# Moodle JMeter Test Plans
+This repo is for Moodle JMeter Test Plan use-cases that successfully used in Moodle test case plans. JMeter is required for use on a client-side machine.
